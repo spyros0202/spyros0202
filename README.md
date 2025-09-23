@@ -13,8 +13,8 @@ Fun fact: I enjoy building platforms that combine **machine learning with intera
 ---
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spyros-vythoulkas)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spyros0202)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:spyrosv0202@gmail.com)
 
 ---
 
@@ -37,11 +37,6 @@ Fun fact: I enjoy building platforms that combine **machine learning with intera
 ## 📊 GitHub Stats
 ![Spyros' GitHub stats](https://github-readme-stats.vercel.app/api?username=spyros0202&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spyros0202&layout=compact&theme=radical)
-
----
-
-## 💡 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
