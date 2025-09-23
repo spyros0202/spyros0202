@@ -39,11 +39,3 @@ Fun fact: I enjoy building platforms that combine **machine learning with intera
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spyros0202&layout=compact&theme=radical)
 
 ---
-
-## 📌 Featured Projects
-🔬 **[Enviromed](https://github.com/YOUR-LINK/Enviromed)** – Ecotoxicity & bioaccumulation prediction web app  
-🌱 **[CNatural](https://github.com/YOUR-LINK/CNatural)** – Graph knowledge platform for natural products  
-📊 **[IEEE Workshop](https://github.com/spyros0202/IEEE-workshop)** – Python workshop for IEEE  
-🧪 **[PosePick](https://github.com/CloudPharm/PosePick)** – Cloudpharm project (private work contributions)
-
----
