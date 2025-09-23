@@ -7,7 +7,6 @@ I focus on **AI/ML, data pipelines, and graph databases** to power research and 
 🔬 Current projects:  
 - **Enviromed** → A Django-based cheminformatics web app for predicting **ecotoxicity & bioaccumulation** of chemicals and metabolites.  
 - **CNatural** → A graph knowledge platform linking natural compounds, EU regulatory lists, and predicted metabolites using **Neo4j + LLM pipelines**.  
-- **Blood Cell Image Analysis Platform** (research) → Image upload + shape analysis of hematology cells.  
 
 Fun fact: I enjoy building platforms that combine **machine learning with interactive web technologies** 🌐.
 
