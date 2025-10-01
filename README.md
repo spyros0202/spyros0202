@@ -6,7 +6,6 @@ I focus on **AI/ML, data pipelines, and graph databases** to power research and 
 
 🔬 Current projects:  
 - **GAIA** → A Django-based platform for predicting **ecotoxicity & bioaccumulation** of chemicals and metabolites. [🌍 Website](https://gaiatox.eu)  
-- **Enviromed** → A Django-based cheminformatics web app for predicting **ecotoxicity & bioaccumulation** of chemicals and metabolites.  
 - **CNatural** → A graph knowledge platform linking natural compounds, EU regulatory lists, and predicted metabolites using **Neo4j + LLM pipelines**.  
 - **Thesis (Acne Grading ML)** → A machine learning project for automated acne grading on facial images. [📂 GitHub](https://github.com/spyros0202/Ance_project)  
 
