@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Spyros
+#  Hi, I'm Spyros
 
-## 🚀 About Me
+##  About Me
 I'm a Biomedical Engineer and Full-Stack Developer, currently working at **Cloudpharm** on cheminformatics and data-driven biomedical platforms.  
 I focus on **AI/ML, data pipelines, and graph databases** to power research and real-world applications.  
 
-🔬 Current projects:  
+ Current projects:  
 - **GAIA** → A Django-based platform for predicting **ecotoxicity & bioaccumulation** of chemicals and metabolites. [🌍 Website](https://gaiatox.eu)  
 - **CNatural** → A graph knowledge platform linking natural compounds, EU regulatory lists, and predicted metabolites using **Neo4j + LLM pipelines**.  
 - **Thesis (Acne Grading ML)** → A machine learning project for automated acne grading on facial images. [📂 GitHub](https://github.com/spyros0202/Ance_project)  
@@ -13,13 +13,13 @@ Fun fact: I enjoy building platforms that combine **machine learning with intera
 
 ---
 
-## 🌐 Socials
+##  Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spyros0202)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:spyrosv0202@gmail.com)
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)
