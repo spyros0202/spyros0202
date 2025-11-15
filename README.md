@@ -37,5 +37,5 @@ Fun fact: I enjoy building platforms that combine **machine learning with intera
 
 ## GitHub Stats
 ![Spyros' GitHub stats](https://github-readme-stats.vercel.app/api?username=spyros0202&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spyros0202&langs_count=6&layout=compact&theme=radical&hide=javascript,SCSS)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spyros0202&langs_count=6&layout=compact&theme=radical&hide=SCSS)
 ---
